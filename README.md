@@ -34,6 +34,12 @@ recursos naturales.
 
 ### Implementación
 
+Antes de ejecutar el contenedor docker necesitamos agregar los modelos a nuestros repositorios, no pude agregar los modelos ya que pesan mucho y gaste todo el espacio disponible con la subscripción gratis de mi cuenta de github.
+Para ello dejare este enlace drive donde podremos descargar la carpeta **models** y la dejaremos en nuestro repositorio, el repositorio debe quedar de esta manera 
+
+
+![Terminal](/images/carpeta.png)
+
 Para poder hacer uso del repositorio es necesario tener como prerequisitos
 instalados los siguientes modulos.
 
